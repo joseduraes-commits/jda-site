@@ -1,0 +1,275 @@
+[
+  {
+    "file": "alfama.pdf",
+    "slug": "alfama",
+    "pages": 4,
+    "images": [
+      "assets/timeline-independent/alfama/pagina-02-01.png",
+      "assets/timeline-independent/alfama/pagina-03-01.png",
+      "assets/timeline-independent/alfama/pagina-04-01.png"
+    ],
+    "text": "assets/timeline-independent/alfama/texto.txt"
+  },
+  {
+    "file": "T3 e T4 Évora, Portugal.pdf",
+    "slug": "t3-e-t4-evora-portugal",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/t3-e-t4-evora-portugal/pagina-02-01.jpg",
+      "assets/timeline-independent/t3-e-t4-evora-portugal/pagina-02-02.jpg"
+    ],
+    "text": "assets/timeline-independent/t3-e-t4-evora-portugal/texto.txt"
+  },
+  {
+    "file": "Sanijato .pdf",
+    "slug": "sanijato",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/sanijato/pagina-01-01.jpg",
+      "assets/timeline-independent/sanijato/pagina-02-01.jpg",
+      "assets/timeline-independent/sanijato/pagina-02-02.jpg"
+    ],
+    "text": "assets/timeline-independent/sanijato/texto.txt"
+  },
+  {
+    "file": "estrada.pdf",
+    "slug": "estrada",
+    "pages": 1,
+    "images": [
+      "assets/timeline-independent/estrada/pagina-01-01.jpg"
+    ],
+    "text": "assets/timeline-independent/estrada/texto.txt"
+  },
+  {
+    "file": "cc.pdf",
+    "slug": "cc",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/cc/pagina-02-01.jpg"
+    ],
+    "text": "assets/timeline-independent/cc/texto.txt"
+  },
+  {
+    "file": "abi.pdf",
+    "slug": "abi",
+    "pages": 3,
+    "images": [
+      "assets/timeline-independent/abi/pagina-02-01.jpg",
+      "assets/timeline-independent/abi/pagina-02-02.jpg",
+      "assets/timeline-independent/abi/pagina-03-01.jpg"
+    ],
+    "text": "assets/timeline-independent/abi/texto.txt"
+  },
+  {
+    "file": "casa verde.pdf",
+    "slug": "casa-verde",
+    "pages": 3,
+    "images": [
+      "assets/timeline-independent/casa-verde/pagina-02-01.jpg",
+      "assets/timeline-independent/casa-verde/pagina-03-01.jpg",
+      "assets/timeline-independent/casa-verde/pagina-03-02.jpg"
+    ],
+    "text": "assets/timeline-independent/casa-verde/texto.txt"
+  },
+  {
+    "file": "barthazar.pdf",
+    "slug": "barthazar",
+    "pages": 5,
+    "images": [
+      "assets/timeline-independent/barthazar/pagina-02-01.jpg",
+      "assets/timeline-independent/barthazar/pagina-03-01.jpg",
+      "assets/timeline-independent/barthazar/pagina-04-01.jpg",
+      "assets/timeline-independent/barthazar/pagina-05-01.jpg"
+    ],
+    "text": "assets/timeline-independent/barthazar/texto.txt"
+  },
+  {
+    "file": "Rocha.pdf",
+    "slug": "rocha",
+    "pages": 4,
+    "images": [
+      "assets/timeline-independent/rocha/pagina-02-01.jpg",
+      "assets/timeline-independent/rocha/pagina-03-01.jpg",
+      "assets/timeline-independent/rocha/pagina-04-01.jpg"
+    ],
+    "text": "assets/timeline-independent/rocha/texto.txt"
+  },
+  {
+    "file": "Bombeiros .pdf",
+    "slug": "bombeiros",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/bombeiros/pagina-02-01.jpg",
+      "assets/timeline-independent/bombeiros/pagina-02-02.jpg"
+    ],
+    "text": "assets/timeline-independent/bombeiros/texto.txt"
+  },
+  {
+    "file": "Casa Mira Gaia .pdf",
+    "slug": "casa-mira-gaia",
+    "pages": 5,
+    "images": [
+      "assets/timeline-independent/casa-mira-gaia/pagina-02-01.jpg",
+      "assets/timeline-independent/casa-mira-gaia/pagina-03-01.jpg",
+      "assets/timeline-independent/casa-mira-gaia/pagina-04-01.jpg",
+      "assets/timeline-independent/casa-mira-gaia/pagina-05-01.jpg"
+    ],
+    "text": "assets/timeline-independent/casa-mira-gaia/texto.txt"
+  },
+  {
+    "file": "alvelos.pdf",
+    "slug": "alvelos",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/alvelos/pagina-02-01.jpg",
+      "assets/timeline-independent/alvelos/pagina-02-02.jpg"
+    ],
+    "text": "assets/timeline-independent/alvelos/texto.txt"
+  },
+  {
+    "file": "Casa Montbonnot-Saint-Martin .pdf",
+    "slug": "casa-montbonnot-saint-martin",
+    "pages": 4,
+    "images": [
+      "assets/timeline-independent/casa-montbonnot-saint-martin/pagina-02-01.jpg",
+      "assets/timeline-independent/casa-montbonnot-saint-martin/pagina-02-02.jpg",
+      "assets/timeline-independent/casa-montbonnot-saint-martin/pagina-03-01.jpg",
+      "assets/timeline-independent/casa-montbonnot-saint-martin/pagina-03-02.jpg",
+      "assets/timeline-independent/casa-montbonnot-saint-martin/pagina-04-01.jpg"
+    ],
+    "text": "assets/timeline-independent/casa-montbonnot-saint-martin/texto.txt"
+  },
+  {
+    "file": "Casa de Brasão .pdf",
+    "slug": "casa-de-brasao",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/casa-de-brasao/pagina-02-01.jpg"
+    ],
+    "text": "assets/timeline-independent/casa-de-brasao/texto.txt"
+  },
+  {
+    "file": "Empreendimento Habitacional – Paris, França.pdf",
+    "slug": "empreendimento-habitacional-paris-franca",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/empreendimento-habitacional-paris-franca/pagina-02-01.jpg",
+      "assets/timeline-independent/empreendimento-habitacional-paris-franca/pagina-02-02.jpg"
+    ],
+    "text": "assets/timeline-independent/empreendimento-habitacional-paris-franca/texto.txt"
+  },
+  {
+    "file": "bernadina.pdf",
+    "slug": "bernadina",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/bernadina/pagina-01-01.jpg",
+      "assets/timeline-independent/bernadina/pagina-02-01.jpg"
+    ],
+    "text": "assets/timeline-independent/bernadina/texto.txt"
+  },
+  {
+    "file": "Hostel Sense of Ofir .pdf",
+    "slug": "hostel-sense-of-ofir",
+    "pages": 4,
+    "images": [
+      "assets/timeline-independent/hostel-sense-of-ofir/pagina-02-01.jpg",
+      "assets/timeline-independent/hostel-sense-of-ofir/pagina-03-01.jpg",
+      "assets/timeline-independent/hostel-sense-of-ofir/pagina-04-01.jpg"
+    ],
+    "text": "assets/timeline-independent/hostel-sense-of-ofir/texto.txt"
+  },
+  {
+    "file": "Renovação de Edifício Habitacional para Alojamento Local .pdf",
+    "slug": "renovacao-de-edificio-habitacional-para-alojamento-local",
+    "pages": 3,
+    "images": [
+      "assets/timeline-independent/renovacao-de-edificio-habitacional-para-alojamento-local/pagina-02-01.jpg",
+      "assets/timeline-independent/renovacao-de-edificio-habitacional-para-alojamento-local/pagina-03-01.jpg"
+    ],
+    "text": "assets/timeline-independent/renovacao-de-edificio-habitacional-para-alojamento-local/texto.txt"
+  },
+  {
+    "file": "Projeto de Interiores – Quarto .pdf",
+    "slug": "projeto-de-interiores-quarto",
+    "pages": 3,
+    "images": [
+      "assets/timeline-independent/projeto-de-interiores-quarto/pagina-01-01.jpg",
+      "assets/timeline-independent/projeto-de-interiores-quarto/pagina-02-01.jpg"
+    ],
+    "text": "assets/timeline-independent/projeto-de-interiores-quarto/texto.txt"
+  },
+  {
+    "file": "de Mobiliario 2024.pdf",
+    "slug": "de-mobiliario-2024",
+    "pages": 4,
+    "images": [
+      "assets/timeline-independent/de-mobiliario-2024/pagina-01-01.jpg",
+      "assets/timeline-independent/de-mobiliario-2024/pagina-02-01.jpg",
+      "assets/timeline-independent/de-mobiliario-2024/pagina-03-01.jpg",
+      "assets/timeline-independent/de-mobiliario-2024/pagina-04-01.jpg"
+    ],
+    "text": "assets/timeline-independent/de-mobiliario-2024/texto.txt"
+  },
+  {
+    "file": "Casa V&N .pdf",
+    "slug": "casa-v-n",
+    "pages": 3,
+    "images": [
+      "assets/timeline-independent/casa-v-n/pagina-02-01.jpg",
+      "assets/timeline-independent/casa-v-n/pagina-03-01.jpg"
+    ],
+    "text": "assets/timeline-independent/casa-v-n/texto.txt"
+  },
+  {
+    "file": "Casa Espelho .pdf",
+    "slug": "casa-espelho",
+    "pages": 4,
+    "images": [
+      "assets/timeline-independent/casa-espelho/pagina-02-01.jpg",
+      "assets/timeline-independent/casa-espelho/pagina-03-01.jpg",
+      "assets/timeline-independent/casa-espelho/pagina-04-01.jpg"
+    ],
+    "text": "assets/timeline-independent/casa-espelho/texto.txt"
+  },
+  {
+    "file": "Maias .pdf",
+    "slug": "maias",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/maias/pagina-02-01.jpg"
+    ],
+    "text": "assets/timeline-independent/maias/texto.txt"
+  },
+  {
+    "file": "Luxury — Stand de Carros de Luxo .pdf",
+    "slug": "luxury-stand-de-carros-de-luxo",
+    "pages": 3,
+    "images": [
+      "assets/timeline-independent/luxury-stand-de-carros-de-luxo/pagina-02-01.jpg",
+      "assets/timeline-independent/luxury-stand-de-carros-de-luxo/pagina-03-01.jpg"
+    ],
+    "text": "assets/timeline-independent/luxury-stand-de-carros-de-luxo/texto.txt"
+  },
+  {
+    "file": "Casa F&H .pdf",
+    "slug": "casa-f-h",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/casa-f-h/pagina-01-01.jpg",
+      "assets/timeline-independent/casa-f-h/pagina-02-01.jpg",
+      "assets/timeline-independent/casa-f-h/pagina-02-02.jpg"
+    ],
+    "text": "assets/timeline-independent/casa-f-h/texto.txt"
+  },
+  {
+    "file": "Pavilhão Industrial 2023- Licenciamento.pdf",
+    "slug": "pavilhao-industrial-2023-licenciamento",
+    "pages": 2,
+    "images": [
+      "assets/timeline-independent/pavilhao-industrial-2023-licenciamento/pagina-02-01.jpg",
+      "assets/timeline-independent/pavilhao-industrial-2023-licenciamento/pagina-02-02.jpg"
+    ],
+    "text": "assets/timeline-independent/pavilhao-industrial-2023-licenciamento/texto.txt"
+  }
+]
