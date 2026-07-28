@@ -1,11 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://jda.pt/</loc></url>
-<url><loc>https://jda.pt/index-en.html</loc></url>
-<url><loc>https://jda.pt/index-fr.html</loc></url>
-<url><loc>https://jda.pt/privacidade.html</loc></url>
-<url><loc>https://jda.pt/privacy-en.html</loc></url>
-<url><loc>https://jda.pt/privacy-fr.html</loc></url>
-<url><loc>https://jda.pt/informacao-legal.html</loc></url>
-<url><loc>https://jda.pt/legal-en.html</loc></url>
-<url><loc>https://jda.pt/legal-fr.html</loc></url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jda.pt/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jda.pt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jda.pt/index-en.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jda.pt/index-fr.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jda.pt/index-en.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jda.pt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jda.pt/index-en.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jda.pt/index-fr.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jda.pt/index-fr.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://jda.pt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jda.pt/index-en.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jda.pt/index-fr.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jda.pt/informacao-legal.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://jda.pt/privacidade.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
 </urlset>

@@ -10,9 +10,9 @@
   };
   const locales={
     en:{
-      whatsapp:'Hello JDA Architecture, I would like to talk about a project.',
+      whatsapp:'Hello JDA Studio, I would like to talk about a project.',
       exact:{
-        'JDA Arquitectura, início':'JDA Architecture, home',
+        'JDA Studio, início':'JDA Studio, home',
         'Navegação principal':'Main navigation',
         'Abrir menu':'Open menu',
         'Idioma':'Language',
@@ -23,12 +23,12 @@
         'projetos':'projects',
         'Deslize para descobrir':'Scroll to discover',
         'O atelier':'The studio',
-        'JDA Arquitectura':'JDA Architecture',
+        'JDA Studio':'JDA Studio',
         'Arquitetura com':'Architecture with',
         'identidade.':'identity.',
         'Projetos que atravessam gerações.':'Projects designed to span generations.',
-        'Na JDA Arquitectura, acreditamos que a arquitetura é muito mais do que construir edifícios. É criar espaços que melhoram a vida das pessoas, valorizam o território e permanecem relevantes ao longo do tempo. Com mais de 20 anos de experiência, desenvolvemos projetos que conciliam criatividade, rigor técnico e funcionalidade, sempre com uma abordagem personalizada. Cada cliente, cada terreno e cada desafio são únicos — e é dessa singularidade que nasce a nossa arquitetura. Ao longo do nosso percurso projetámos mais de 100 obras, totalizando cerca de 42.000 m² de arquitetura, em Portugal e no estrangeiro, com intervenções em França, Dubai e Quénia. Não seguimos soluções pré-definidas. Escutamos, analisamos e desenhamos cada projeto de raiz, procurando o equilíbrio entre estética, funcionalidade, sustentabilidade e viabilidade económica. Acompanhamos todas as fases, do primeiro esboço à conclusão da obra.':'At JDA Architecture, we believe architecture is much more than constructing buildings. It is about creating spaces that improve people’s lives, enhance the territory and remain relevant over time. With more than 20 years of experience, we develop projects that combine creativity, technical rigour and functionality through a personalised approach. Every client, site and challenge is unique — and our architecture grows from that singularity. We have designed more than 100 projects, representing around 42,000 m² of architecture in Portugal and abroad, including work in France, Dubai and Kenya. We do not follow predefined solutions. We listen, analyse and design each project from the ground up, balancing aesthetics, function, sustainability and economic viability. We remain closely involved through every stage, from the first sketch to completion.',
-        'Experiência da JDA Arquitectura':'JDA Architecture experience',
+        'Na JDA Studio, acreditamos que a arquitetura é muito mais do que construir edifícios. É criar espaços que melhoram a vida das pessoas, valorizam o território e permanecem relevantes ao longo do tempo. Com mais de 20 anos de experiência, desenvolvemos projetos que conciliam criatividade, rigor técnico e funcionalidade, sempre com uma abordagem personalizada. Cada cliente, cada terreno e cada desafio são únicos — e é dessa singularidade que nasce a nossa arquitetura. Ao longo do nosso percurso projetámos mais de 100 obras, totalizando cerca de 42.000 m² de arquitetura, em Portugal e no estrangeiro, com intervenções em França, Dubai e Quénia. Não seguimos soluções pré-definidas. Escutamos, analisamos e desenhamos cada projeto de raiz, procurando o equilíbrio entre estética, funcionalidade, sustentabilidade e viabilidade económica. Acompanhamos todas as fases, do primeiro esboço à conclusão da obra.':'At JDA Studio, we believe architecture is much more than constructing buildings. It is about creating spaces that improve people’s lives, enhance the territory and remain relevant over time. With more than 20 years of experience, we develop projects that combine creativity, technical rigour and functionality through a personalised approach. Every client, site and challenge is unique — and our architecture grows from that singularity. We have designed more than 100 projects, representing around 42,000 m² of architecture in Portugal and abroad, including work in France, Dubai and Kenya. We do not follow predefined solutions. We listen, analyse and design each project from the ground up, balancing aesthetics, function, sustainability and economic viability. We remain closely involved through every stage, from the first sketch to completion.',
+        'Experiência da JDA Studio':'JDA Studio experience',
         'Anos de experiência':'Years of experience',
         'Obras projetadas':'Projects designed',
         'm² de arquitetura':'m² of architecture',
@@ -365,9 +365,9 @@
       ]
     },
     fr:{
-      whatsapp:'Bonjour JDA Architecture, je souhaite vous parler d’un projet.',
+      whatsapp:'Bonjour JDA Studio, je souhaite vous parler d’un projet.',
       exact:{
-        'JDA Arquitectura, início':'JDA Architecture, accueil',
+        'JDA Studio, início':'JDA Studio, accueil',
         'Navegação principal':'Navigation principale',
         'Abrir menu':'Ouvrir le menu',
         'Idioma':'Langue',
@@ -378,12 +378,12 @@
         'projetos':'projets',
         'Deslize para descobrir':'Faites défiler pour découvrir',
         'O atelier':'L’atelier',
-        'JDA Arquitectura':'JDA Architecture',
+        'JDA Studio':'JDA Studio',
         'Arquitetura com':'Une architecture avec',
         'identidade.':'identité.',
         'Projetos que atravessam gerações.':'Des projets qui traversent les générations.',
-        'Na JDA Arquitectura, acreditamos que a arquitetura é muito mais do que construir edifícios. É criar espaços que melhoram a vida das pessoas, valorizam o território e permanecem relevantes ao longo do tempo. Com mais de 20 anos de experiência, desenvolvemos projetos que conciliam criatividade, rigor técnico e funcionalidade, sempre com uma abordagem personalizada. Cada cliente, cada terreno e cada desafio são únicos — e é dessa singularidade que nasce a nossa arquitetura. Ao longo do nosso percurso projetámos mais de 100 obras, totalizando cerca de 42.000 m² de arquitetura, em Portugal e no estrangeiro, com intervenções em França, Dubai e Quénia. Não seguimos soluções pré-definidas. Escutamos, analisamos e desenhamos cada projeto de raiz, procurando o equilíbrio entre estética, funcionalidade, sustentabilidade e viabilidade económica. Acompanhamos todas as fases, do primeiro esboço à conclusão da obra.':'Chez JDA Architecture, nous pensons que l’architecture va bien au-delà de la construction de bâtiments. Il s’agit de créer des espaces qui améliorent la vie, valorisent le territoire et restent pertinents dans le temps. Avec plus de 20 ans d’expérience, nous développons des projets qui associent créativité, rigueur technique et fonctionnalité selon une approche personnalisée. Chaque client, chaque terrain et chaque défi sont uniques — c’est de cette singularité que naît notre architecture. Nous avons conçu plus de 100 projets, représentant environ 42 000 m² d’architecture au Portugal et à l’étranger, notamment en France, à Dubaï et au Kenya. Nous ne suivons pas de solutions prédéfinies. Nous écoutons, analysons et dessinons chaque projet à partir de zéro, en recherchant l’équilibre entre esthétique, fonctionnalité, durabilité et viabilité économique. Nous accompagnons toutes les étapes, de la première esquisse à l’achèvement des travaux.',
-        'Experiência da JDA Arquitectura':'Expérience de JDA Architecture',
+        'Na JDA Studio, acreditamos que a arquitetura é muito mais do que construir edifícios. É criar espaços que melhoram a vida das pessoas, valorizam o território e permanecem relevantes ao longo do tempo. Com mais de 20 anos de experiência, desenvolvemos projetos que conciliam criatividade, rigor técnico e funcionalidade, sempre com uma abordagem personalizada. Cada cliente, cada terreno e cada desafio são únicos — e é dessa singularidade que nasce a nossa arquitetura. Ao longo do nosso percurso projetámos mais de 100 obras, totalizando cerca de 42.000 m² de arquitetura, em Portugal e no estrangeiro, com intervenções em França, Dubai e Quénia. Não seguimos soluções pré-definidas. Escutamos, analisamos e desenhamos cada projeto de raiz, procurando o equilíbrio entre estética, funcionalidade, sustentabilidade e viabilidade económica. Acompanhamos todas as fases, do primeiro esboço à conclusão da obra.':'Chez JDA Studio, nous pensons que l’architecture va bien au-delà de la construction de bâtiments. Il s’agit de créer des espaces qui améliorent la vie, valorisent le territoire et restent pertinents dans le temps. Avec plus de 20 ans d’expérience, nous développons des projets qui associent créativité, rigueur technique et fonctionnalité selon une approche personnalisée. Chaque client, chaque terrain et chaque défi sont uniques — c’est de cette singularité que naît notre architecture. Nous avons conçu plus de 100 projets, représentant environ 42 000 m² d’architecture au Portugal et à l’étranger, notamment en France, à Dubaï et au Kenya. Nous ne suivons pas de solutions prédéfinies. Nous écoutons, analysons et dessinons chaque projet à partir de zéro, en recherchant l’équilibre entre esthétique, fonctionnalité, durabilité et viabilité économique. Nous accompagnons toutes les étapes, de la première esquisse à l’achèvement des travaux.',
+        'Experiência da JDA Studio':'Expérience de JDA Studio',
         'Anos de experiência':'Années d’expérience',
         'Obras projetadas':'Projets conçus',
         'm² de arquitetura':'m² d’architecture',
