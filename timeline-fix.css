@@ -13,6 +13,23 @@
 .timeline details:nth-of-type(9) summary{grid-column:9!important}
 .timeline details:nth-of-type(10) summary{grid-column:10!important}
 .timeline details:nth-of-type(11) summary{grid-column:11!important}
+/* Keep mobile years and projects in document flow, with one page scroll. */
+@media(max-width:800px){
+  .timeline{display:block;min-height:0;overflow:visible;padding:0}
+  .timeline:before{display:none}
+  .timeline details{display:block;pointer-events:auto;border-top:1px solid var(--line)}
+  .timeline summary{display:flex;height:auto;min-height:72px;padding:18px 0;align-items:center;justify-content:space-between;white-space:normal;touch-action:manipulation}
+  .timeline summary:before,.timeline summary:after{display:none}
+  .timeline summary time,.timeline details[open] summary time,.timeline summary:hover time,.timeline summary:focus-visible time{font-size:2rem;transform:none}
+  .timeline summary span{display:block;margin-left:auto;margin-right:16px}
+  .timeline summary b{display:block;font-size:1.6rem}
+  .timeline ul,.timeline details[open] ul{position:static;inset:auto;width:100%;max-height:none;margin:0;padding:0 0 24px;overflow:visible;background:transparent}
+  .timeline ul{display:none}
+  .timeline details[open] ul{display:block}
+  .timeline-project-copy{min-width:0;overflow-wrap:anywhere}
+  .timeline-project-toggle{min-height:56px;touch-action:manipulation}
+  .timeline-project-action{flex-shrink:0}
+}
 .censored{position:relative;display:inline-block;color:transparent;user-select:none}
 .censored:after{content:"";position:absolute;left:-.12em;right:-.12em;top:50%;height:.72em;background:#0b0b0a;transform:translateY(-50%) rotate(-.7deg);box-shadow:0 .08em 0 rgba(0,0,0,.22)}
 .logo-axis{display:none!important}
