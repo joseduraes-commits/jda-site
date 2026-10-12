@@ -59,7 +59,9 @@ const activateYear=item=>{
 };
 timelineItems.forEach(item=>{
   const summary=item.querySelector('summary');
-  summary.addEventListener('mouseenter',()=>activateYear(item));
+  summary.addEventListener('mouseenter',()=>{
+    if(window.matchMedia('(hover:hover) and (pointer:fine)').matches)activateYear(item);
+  });
   item.addEventListener('toggle',()=>{
     if(item.open)timelineItems.forEach(other=>{if(other!==item)other.open=false});
     requestAnimationFrame(syncTimelineHeight);
